@@ -9,7 +9,7 @@ video_id | title | watch_time | category | description
 From there, you can explore trends over time, keyword shifts, category changes, or even semantic patterns.
 
 
-How to Use
+##How to Use
 
 1, Download your YouTube watch history from https://takeout.google.com
 
@@ -21,7 +21,7 @@ API_KEY = "your_youtube_api_key"
 
 3, Run the script.
 
-Included Examples
+##Included Examples
 
 Keyword frequency analysis
 
@@ -39,4 +39,4 @@ Semantic embedding map of descriptions
 
 <img width="564" height="577" alt="Screenshot 2026-02-11 at 16 58 21" src="https://github.com/user-attachments/assets/37835e3a-f51f-462b-9622-fd2368dbf4eb" />
 
-The rest is up to you.
+##The rest is up to you.
