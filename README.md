@@ -39,4 +39,4 @@ Semantic embedding map of descriptions
 
 <img width="564" height="577" alt="Screenshot 2026-02-11 at 16 58 21" src="https://github.com/user-attachments/assets/37835e3a-f51f-462b-9622-fd2368dbf4eb" />
 
-##The rest is up to you.
+## The rest is up to you.
